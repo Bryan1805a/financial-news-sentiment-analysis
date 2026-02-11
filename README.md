@@ -29,7 +29,7 @@ A real-time stock market sentiment analysis tool leveraging **FinBERT** (a state
 
 | Main UI | NVIDIA Stock Detail |
 |:---:|:---:|
-| ![Main UI](./assets/patient_view.png) | ![NVIDIA Stock Detail](./assets/doctor_view.png) |
+| ![Main UI](/stuff/main_ui.png) | ![NVIDIA Stock Detail](/stuff/main_ui_2.jpg) |
 
 ## Installation & Local Setup
 To run this project locally on your machine:
