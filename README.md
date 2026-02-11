@@ -25,7 +25,7 @@ A real-time stock market sentiment analysis tool leveraging **FinBERT** (a state
 -   **Visualization:** Plotly Express, Plotly Graph Objects
 -   **Data Processing:** Pandas, NumPy
 
-## 📸 Screenshots
+## Screenshots
 
 | Main UI | NVIDIA Stock Detail |
 |:---:|:---:|
@@ -36,8 +36,8 @@ To run this project locally on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Bryan1805a/financial-news-sentiment-analysis.git](https://github.com/Bryan1805a/financial-news-sentiment-analysis.git)
-    cd stock-sentiment-ai
+    git clone https://github.com/Bryan1805a/financial-news-sentiment-analysis.git
+    cd financial-news-sentiment-analysis
     ```
 
 2.  **Install dependencies:**
