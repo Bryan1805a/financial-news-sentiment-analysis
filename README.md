@@ -11,13 +11,13 @@ A real-time stock market sentiment analysis tool leveraging **FinBERT** (a state
 
 ---
 
-## 🚀 Key Features
+## Key Features
 -   **Multi-Dimensional Analysis:** Combines **Price Action** (historical data) and **News Sentiment** on a single interactive dashboard.
 -   **Advanced AI Core:** Powered by `ProsusAI/finbert`, a BERT model pre-trained on a massive financial corpus for superior accuracy.
 -   **Real-Time Data:** Automatically fetches the latest news headlines and stock prices via Yahoo Finance API.
 -   **Interactive Visualization:** Dynamic candlestick/line charts and sentiment distribution donut charts using Plotly & Streamlit.
 
-## 🛠️ Tech Stack
+## Tech Stack
 -   **Language:** Python 3.10+
 -   **Frontend:** Streamlit
 -   **AI/ML Core:** Hugging Face Transformers, PyTorch
@@ -25,12 +25,12 @@ A real-time stock market sentiment analysis tool leveraging **FinBERT** (a state
 -   **Visualization:** Plotly Express, Plotly Graph Objects
 -   **Data Processing:** Pandas, NumPy
 
-## 📸 Screenshots
+## Screenshots
 
 ![ALT Text](stuff/main_ui.png "Main UI")
 ![ALT Text](stuff/main_ui_2.jpg "NVIDIA Stock Detail")
 
-## 📦 Installation & Local Setup
+## Installation & Local Setup
 To run this project locally on your machine:
 
 1.  **Clone the repository:**
